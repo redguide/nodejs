@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- resolved cookstyle error: resources/npm_package.rb:1:1 refactor: `Chef/Deprecations/ResourceWithoutUnifiedTrue`
 ## 7.3.1 - *2020-12-31*
 
 - resolved cookstyle error: attributes/packages.rb:15:55 convention: `Layout/TrailingEmptyLines`
